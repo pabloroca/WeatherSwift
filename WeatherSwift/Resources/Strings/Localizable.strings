@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+
+  Created by Pablo Roca Rozas on 17/4/16.
+  Copyright © 2016 PR2Studio. All rights reserved.
+*/
+
+"Error" = "Error";
+"OK" = "OK";
+
+// Error messages
+
+// Loading items list
+"ErrMsgLoadForecastTitle" = "Could not load forecast";
+"ErrMsgLoadForecastMsg"   = "Retry in some minutes by pulling the list to refresh";
+
+"ErrMsgSlowInternet"   = "Slow internet connectivity, be patient ...";
+
+// Navigation
+"TitleMain" = "Select city";
+"TitleForeCast" = "%@ - Forecast";
+
+"Pull to refresh" = "Pull to refresh";
